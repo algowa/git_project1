@@ -1,4 +1,4 @@
-def my_superfunction():
+def mp():
     print(3 * 3)
 
 
@@ -7,7 +7,7 @@ def main():
     print('And I change it every day')
     print('Again')
     print('UFO came and added this line')
-    my_superfunction()
+    mp()
 
 
 if __name__ == '__main__':
