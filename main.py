@@ -2,6 +2,10 @@ def mp():
     print(3 * 3)
 
 
+def my_superfunction():
+    print(2 + 2)
+
+
 def main():
     print('My first git program')
     print('And I change it every day')
